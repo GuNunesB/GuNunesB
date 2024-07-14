@@ -38,7 +38,6 @@ I'm Gustavo, a 15-year-old technology enthusiast living in São Paulo, SP. I'm f
 
 <p align = "center">
    <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunesB&show_icons=true&theme=blue-green&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuNunesB&hide=html,css,java,php,mysql,figma,arduino&theme=blue-green">
 </p>
        
 <p align = "center">
