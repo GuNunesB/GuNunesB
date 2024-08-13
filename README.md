@@ -12,7 +12,7 @@
 
 - Estudo Desenvolvimento de Sistemas na ETEC e Banco de Dados Web no Senac;
 
-- Procuro aprender um pouco de tudo na área de TI;
+- Eu procuro aprender um pouco de tudo na área de TI;
 
 <br><br>
 ## Tools and Languages
