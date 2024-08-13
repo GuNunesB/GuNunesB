@@ -7,13 +7,12 @@
    <ul align="center">
    <summary><h1 style="display: inline-block">Hello World👋</h1></summary>
 </div>
-I'm Gustavo, a 15-year-old technology enthusiast living in São Paulo, SP. I'm focused on studying to become a great professional. Currently, I'm learning PHP, MySQL, HTML5, CSS3, and JS.
-
+      Sou Gustavo, tenho 15 anos e apaixonado por tecnologia. Atualmente moro em São Paulo - SP. Estou focado em estudar para me tornar um grande profissional. Atualmente estou aprendendo PHP, MySQL, HTML5, CSS3 e JS.
 <br><img src="https://images.wallpapersden.com/image/download/japanese-castle-pixel-art_bGZnbmWUmZqaraWkpJRmaWVlrWllZQ.jpg"><br>
 
-- I study System Development at ETEC and Web Database at Senac.
+- Estudo Desenvolvimento de Sistemas na ETEC e Banco de Dados Web no Senac;
 
-- I seek to learn a bit of everything in the IT field.
+- Procuro aprender um pouco de tudo na área de TI;
 
 <br><br>
 ## Tools and Languages
