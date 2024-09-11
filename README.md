@@ -36,10 +36,10 @@
 ## Status
 
 <p align = "center">
-   <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunesB&show_icons=true&theme=blue-green&line_height=27">
+   <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunes28&show_icons=true&theme=blue-green&line_height=27">
 </p>
        
 <p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuNunesB&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuNunes28&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
 </p> 
        
