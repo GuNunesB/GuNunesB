@@ -1,7 +1,7 @@
 <p align="center">
-   <img src="https://badges.pufler.dev/visits/GuNunesB/GuNunesB"/> 
-   <img src="https://badges.pufler.dev/repos/GuNunesB"/>
-   <img src="https://badges.pufler.dev/commits/monthly/GuNunesB" />
+   <img src="https://badges.pufler.dev/visits/GuNunes28/GuNunes28"/> 
+   <img src="https://badges.pufler.dev/repos/GuNunes28"/>
+   <img src="https://badges.pufler.dev/commits/monthly/GuNunes28" />
 </p>
 <div id="user-content-toc">
    <ul align="center">
