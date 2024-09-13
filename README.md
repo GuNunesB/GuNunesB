@@ -1,7 +1,7 @@
 <p align="center">
-   <img src="https://badges.pufler.dev/visits/GuNunes28/GuNunes28"/> 
-   <img src="https://badges.pufler.dev/repos/GuNunes28"/>
-   <img src="https://badges.pufler.dev/commits/monthly/GuNunes28" />
+   <img src="https://badges.pufler.dev/visits/GuNunesB/GuNunesB"/> 
+   <img src="https://badges.pufler.dev/repos/GuNunesB"/>
+   <img src="https://badges.pufler.dev/commits/monthly/GuNunesB" />
 </p>
 <div id="user-content-toc">
    <ul align="center">
@@ -36,10 +36,10 @@
 ## Status
 
 <p align = "center">
-   <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunes28&show_icons=true&theme=blue-green&line_height=27">
+   <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunesB&show_icons=true&theme=blue-green&line_height=27">
 </p>
        
 <p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuNunes28&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuNunesB&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
 </p> 
        
