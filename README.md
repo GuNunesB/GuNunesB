@@ -12,7 +12,7 @@
 - Eu procuro aprender um pouco de tudo na área de TI;
 
 <br><br>
-## Tools and Languages
+## Ferramentas & Linguagens
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,20 +23,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 <br>
 <br>
-## Contact
+## Contatos
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gununes280@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gu_nunes280/)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/GustavoNunes280/)
-<br>
-<br>
-## Status
-
-<p align = "center">
-   <img  src = "https://github-readme-stats.vercel.app/api?username=GuNunesB&show_icons=true&theme=blue-green&line_height=27">
-</p>
-       
-<p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuNunesB&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
-</p> 
-       
