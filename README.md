@@ -4,12 +4,16 @@
    <ul align="center">
    <summary><h1 style="display: inline-block">Hello World👋</h1></summary>
 </div>
-      Sou Gustavo, tenho 15 anos e apaixonado por tecnologia. Atualmente moro em São Paulo - SP. Estou focado em estudar para me tornar um grande profissional. Atualmente estou aprendendo um pouco de tudo antes de definir minha área de interesse,
+      Olá, me chamo Gustavo, tenho 15 anos e apaixonado por tecnologia. Atualmente moro em São Paulo - SP. Estou focado em estudar para me tornar um grande profissional na área de dados. Atualmente estou aprendendo um pouco de tudo, mas sei que meu interesse é analise de dados.
 <br><img src="https://images.wallpapersden.com/image/download/japanese-castle-pixel-art_bGZnbmWUmZqaraWkpJRmaWVlrWllZQ.jpg"><br>
 
-- Estudo Desenvolvimento de Sistemas na ETEC e Banco de Dados Web no Senac;
+- Técnico em Desenvolvimento de Sistemas na ETEC Integrado ao Ensino Médio (Em Andamento - Matutino);
 
-- Eu procuro aprender um pouco de tudo na área de TI;
+- Banco de Dados Web no Senac (Concluído - 84h);
+
+- Assistente de Desenvolvimento de Plicativos Computacionais no senac (Em Andamento - Noturno):
+
+- Assistente de Recursos Humanos no senac (Em Andamento - Diurno)
 
 <br><br>
 ## Ferramentas & Linguagens
