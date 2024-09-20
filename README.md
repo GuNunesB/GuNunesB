@@ -4,7 +4,7 @@
    <ul align="center">
    <summary><h1 style="display: inline-block">Hello World👋</h1></summary>
 </div>
-      Olá, me chamo Gustavo, tenho 15 anos e apaixonado por tecnologia. Atualmente moro em São Paulo - SP. Estou focado em estudar para me tornar um grande profissional na área de dados. Atualmente estou aprendendo um pouco de tudo, mas já defini meu interesse é analise de dados.
+      Olá, me chamo Gustavo, tenho 15 anos, atualmente moro em São Paulo - SP. Estou focado em estudar para me tornar um grande profissional . Atualmente estou aprendendo um pouco de tudo, mas sei que a tecnologia é minha paixão.
 <br><img src="https://images.wallpapersden.com/image/download/japanese-castle-pixel-art_bGZnbmWUmZqaraWkpJRmaWVlrWllZQ.jpg"><br>
 
 - Técnico em Desenvolvimento de Sistemas na ETEC Integrado ao Ensino Médio (Em Andamento - Matutino);
